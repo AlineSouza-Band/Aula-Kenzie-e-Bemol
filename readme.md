@@ -1,2 +1,2 @@
-Aula Kenzie e Bemol
+Aula Kenzie e Bemol.
 Desenvolvendo landing page Bemol
